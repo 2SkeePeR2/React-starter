@@ -1,0 +1,17 @@
+build/*
+.gitignore
+package-lock.json
+package.json
+tsconfig.json
+*.md
+public/*
+*.css
+src/react-app-env.d.ts
+src/setupTests.ts
+src/reportWebVitals.ts
+.circleci/*
+.github/*
+.vscode/*
+jest.config.js
+src/__tests__/*
+src/__mocks__/*

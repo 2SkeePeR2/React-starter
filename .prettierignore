@@ -1,0 +1,14 @@
+.vscode/
+node_modules/
+.github/
+coverage/
+*.code-workspace
+package-lock.json
+.gitignore
+*.md
+amplify/
+env/
+.idea/
+public/
+*.css
+build/
